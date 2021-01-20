@@ -9,5 +9,9 @@ int main()
 	cout << "This is from branch MAIN, hi!" << endl;
 	cout << "new line in the branch main." << endl;
 	cout << "new line in the branch main for the second time!!!!!!!!!!!!!!!!!" << endl;
+	cout << "new line the third time!!!!!" << endl;
+	cout << "new line the third time!!!!!" << endl;
+	cout << "new line the third time!!!!!" << endl;
+
 	return 0;
 }
