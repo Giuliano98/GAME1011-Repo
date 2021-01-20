@@ -19,5 +19,7 @@ int main()
 	cout << "Git can different if you build your code or you run it. If you don't do one of those things ";
 	cout << "in other words if you just wrote code git will not noticed on the tree" << endl;
 
+	// note: if you want to switch of branch u have to first commit your status before switch a branch
+
 	return 0;
 }
