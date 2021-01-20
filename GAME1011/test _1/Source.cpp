@@ -6,7 +6,8 @@ using namespace std;
 int main()
 {
 	cout << "Hello world!!!" << endl;
-	cout << "This is from branch 1, hi!" << endl;
-
+	cout << "This is from branch MAIN, hi!" << endl;
+	cout << "new line in the branch main." << endl;
+	cout << "new line in the branch main for the second time!!!!!!!!!!!!!!!!!" << endl;
 	return 0;
 }
