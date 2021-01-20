@@ -20,6 +20,9 @@ int main()
 	cout << "in other words if you just wrote code git will not noticed on the tree" << endl;
 
 	// note: if you want to switch of branch u have to first commit your status before switch a branch
+	// new note: each branch have their one commits if you push the commits from another branch
+	// you just push commits of THAT branch 
+	// swithc for each branch for push your commits
 
 	return 0;
 }
