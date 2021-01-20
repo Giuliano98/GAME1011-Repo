@@ -13,5 +13,11 @@ int main()
 	cout << "new line the third time!!!!!" << endl;
 	cout << "new line the third time!!!!!" << endl;
 
+	cout << "You can only commit when you run your program\nlet's try to just complied the code and then ";
+	cout << "check the tree on git bash" << endl;
+
+	cout << "Git can different if you build your code or you run it. If you don't do one of those things ";
+	cout << "in other words if you just wrote code git will not noticed on the tree" << endl;
+
 	return 0;
 }
